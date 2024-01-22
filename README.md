@@ -21,6 +21,7 @@
     <summary style="font-size: 1.3rem;">
         <b>Info</b>
     </summary>
+    <br>
 </details>
 </div>
 
@@ -29,6 +30,7 @@
     <summary style="font-size: 1.3rem;">
         <b>Technologías</b>
     </summary>
+    <br>
 
 ![Javascript](https://img.shields.io/badge/Javascript-2C2C26?style=for-the-badge&logo=javascript&logoColor=white)
 ![css3](https://img.shields.io/badge/CSS-D65915?style=for-the-badge&logo=css3&logoColor=white)
