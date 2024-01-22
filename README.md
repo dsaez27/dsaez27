@@ -49,6 +49,8 @@
 ![Docker](https://img.shields.io/badge/Docker-1785DA.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Git](https://img.shields.io/badge/Git-D65915.svg?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-2C2C26?style=for-the-badge&logo=github&logoColor=white)
 
 
 </div>
@@ -72,4 +74,3 @@
 <div align="center">
 <h4>Made with ❤️ to Github<h4/>
 </div>
-
