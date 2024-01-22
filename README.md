@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/dsaez27" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-5DC740?style=flat-rounde&logo=&logoColor=white"></a>
 
 <div align="center">
-    <iframe src="https://giphy.com/embed/AfpXE9om1TtkcjpKhI" width="200px" height="120" style="position" frameBorder="0" class="giphy-embed"></iframe>
+    <iframe src="https://giphy.com/embed/AfpXE9om1TtkcjpKhI" width="250px" height="150" style="position" frameBorder="0" class="giphy-embed"></iframe>
 </div>
 
 <div style="padding-block: 1rem">
