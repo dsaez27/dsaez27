@@ -9,7 +9,7 @@
 
 <a href="https://github.com/dsaez27" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@dsaez27-181717?style=flat-rounded&logo=GitHub&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/dsaez27" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-rounde&logo=Linkedin&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/dsaez27" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-5DC740?style=flat-rounde&logo=&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/dsaezh" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/Website-5DC740?style=flat-rounde&logo=&logoColor=white"></a>
 
 <div align="center">
     <img src="https://media.giphy.com/media/AfpXE9om1TtkcjpKhI/giphy.gif" width="180"/>
@@ -22,14 +22,14 @@
     </summary>
     <br>
 
-- 🔭 &nbsp; I’m currently working on **E-commerce With Next.js**
-- 🌱 &nbsp; I’m currently learning Typescript and Next.js; 
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dsaez27?tab=repositories)
-- 🎨 &nbsp; I Use [this theme](https://storyset.com/illustration/javascript-frameworks/amico) for VsCode
-- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
-- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dsaez27/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1uHZ6hCnf5IeJVqC__--v1rNVOE0l-Bfz/view?usp=drive_link)
-- 📚 &nbsp; When I am free, I read Articles and videos about design  and development.
+-   🔭 &nbsp; I’m currently working on **E-commerce With Next.js**
+-   🌱 &nbsp; I’m currently learning Typescript and Next.js;
+-   👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dsaez27?tab=repositories)
+-   🎨 &nbsp; I Use [this theme](https://storyset.com/illustration/javascript-frameworks/amico) for VsCode
+-   💬 &nbsp; Ask me about anything tech related, I am happy to help;
+-   📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dsaez27/)
+-   📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1uHZ6hCnf5IeJVqC__--v1rNVOE0l-Bfz/view?usp=drive_link)
+-   📚 &nbsp; When I am free, I read Articles and videos about design and development.
 
 </details>
 </div>
