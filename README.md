@@ -1,6 +1,6 @@
 <div style="display: flex; padding-block:1.5rem;">
     <div align="center">
-        <h1>👋🎉🐉Bienvenid@ a mi perfil de Github☕🤓💻</h1>
+        <h1>👋🎉🐉Welcome to my github profile☕🤓💻</h1>
         <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="80">
     </div>
  </div>
@@ -18,16 +18,26 @@
 <div style="padding-block: 1rem;">
 <details open style="cursor: pointer">
     <summary style="font-size: 1.3rem;">
-        <b>Info</b>
+        <b>About Me</b>
     </summary>
     <br>
+
+- 🔭 &nbsp; I’m currently working on **E-commerce With Next.js**
+- 🌱 &nbsp; I’m currently learning Typescript and Next.js; 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/dsaez27?tab=repositories)
+- 🎨 &nbsp; I Use [this theme](https://storyset.com/illustration/javascript-frameworks/amico) for VsCode
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/dsaez27/)
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1uHZ6hCnf5IeJVqC__--v1rNVOE0l-Bfz/view?usp=drive_link)
+- 📚 &nbsp; When I am free, I read Articles and videos about design  and development.
+
 </details>
 </div>
 
 <div style="padding-block: 1rem;">
 <details style="cursor: pointer">
     <summary style="font-size: 1.3rem;">
-        <b>Technologías y Herramientas</b>
+        <b>Skills and Tools</b>
     </summary>
     <br>
 
@@ -52,10 +62,7 @@
 ![Git](https://img.shields.io/badge/Git-D65915.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-2C2C26?style=for-the-badge&logo=github&logoColor=white)
 
-
 </div>
-
-
 
 <div style="padding-block: 1rem">
 <details style="cursor: pointer">
@@ -68,9 +75,8 @@
 
 </div>
 
-
 <hr>
 
 <div align="center">
-<h4>Made with ❤️ to Github<h4/>
+<h4>Made with ❤️ to my Github Profile<h4/>
 </div>
